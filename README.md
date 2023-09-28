@@ -10,9 +10,9 @@ A Dashboard from pizzeria data is developed using Power BI and the data analysis
 ## Power BI Dashboard
 The interactive Dashboards based upon Monthly/Daily sales and Best/Worst performance aspects from Jan 2015 to Dec 2015 of collected data is shown in image below while subsequent link is also attached below:
 ![Dashboard1](Media/pizza%20dashboard-1.jpg)
-Click [here](pizza dashboard.pbix) for interactive Power BI dashboard.
+Click [here]() for interactive Power BI dashboard.
 ![Dashboard2](Media/pizza%20dashboard-2.jpg)
-Click [here](pizza dashboard.pbix) for interactive Power BI dashboard.
+Click [here]() for interactive Power BI dashboard.
 
 ## Data Processing
 Data has been processed and cleaned with the help of Excel and DAX in Power BQ by observing:
